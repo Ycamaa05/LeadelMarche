@@ -1,0 +1,11 @@
+b447f4ec-a5d4-4a52-ae47-f5aad6d1df60;Avocat;Avocat frais;ALIMENTS;1.95;Espagne;5.5;143.0;FruitsPlus;0001112223334;true;true
+cbc6ba60-7ce6-47ab-b93d-c551940a13d5;Kiwi;Kiwi vert par pièce;ALIMENTS;0.55;France;5.5;250.0;GreenFarm;0001112223335;false;true
+6b1e00ab-dd33-49a7-87fc-4dd3ea6332ca;Pain complet;Pain de campagne 500g;ALIMENTS;2.8;France;5.5;80.0;Boulangerie;9780201379624;false;true
+47afbd2c-8d18-4b4e-b9ee-f85cbf86e434;Aspirine;Aspirine 20 comprimés;MEDECINES;4.2;France;20.0;40.0;PharmaPlus;0001112223336;false;true
+6a356cfa-754c-44c2-ae96-b5e3db4a59b1;Smartphone Basic;Téléphone 4G entrée de gamme;ELECTRONIQUE;129.99;Chine;20.0;15.0;TechPro;0001112223337;false;true
+449fac4e-6e67-41a8-a7bf-ab08c20a65bb;Chargeur USB;Chargeur rapide USB-C;ELECTRONIQUE;14.9;Chine;20.0;55.0;TechPro;0001112223338;false;true
+6470af4e-0081-41d4-a5a4-0b366f707943;Souris sans fil;Souris optique Bluetooth;ELECTRONIQUE;22.5;Chine;20.0;28.0;TechPro;0001112223339;false;true
+3cc591f1-2fdd-4efb-a259-84a061c4df9d;Gel douche;Gel douche relaxant 250ml;AUTRES;3.1;France;20.0;65.0;CosmiRelax;0001112223340;false;true
+bded44ff-1ead-4771-9f47-9dd14812364d;Lessive liquide;Lessive éco 2L;AUTRES;9.5;France;20.0;45.0;CleanCare;0001112223341;false;true
+3927b7b2-93a7-4cb5-85c1-dd4a2ba70873;Pile AA;Pack 4 piles AA;AUTRES;5.9;Allemagne;20.0;120.0;PowerCell;0001112223342;false;true
+b447f4ec-a5d4-4a52-ae47-f5aad6d1df60;Clavier;clavier mecanique sony;ELECTRONIQUE;30.0;france;3.0;30.0;dylan;001122001122;true;false

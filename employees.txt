@@ -1,0 +1,11 @@
+43eb40fa-308c-46fb-b410-30e3521a02a0;Alice;Bernard;12 rue des Fleurs;LeadelMarché Centre;Caissière;Paul Martin;B1001;35;true
+cb71f103-3589-4a7f-be47-1d88334b8b0b;Marc;Lemoine;3 avenue Victor Hugo;LeadelMarché Centre;Chef de Rayon;Paul Martin;B1002;35;true
+d48cca47-37c5-43de-a330-bf00afaf8fb7;Paul;Martin;18 rue de Paris;LeadelMarché Centre;Directeur;N/A;B1003;35;true
+f0bac418-5c47-4d5e-b326-b8b520451d46;Sophie;Durand;4 place du Marché;LeadelMarché Sud;Caissière;Marc Lemoine;B1004;25;true
+273aa7fa-f450-498c-a783-963ebfa75809;Hugo;Petit;5 rue du Stade;LeadelMarché Sud;Adjoint de rayon;Paul Martin;B1005;30;true
+fbaa55e1-e453-4482-9a52-86c710139f92;Emma;Roux;9 boulevard Victor;LeadelMarché Nord;Caissière;Sophie Durand;B1006;21;true
+049d3bb8-74fe-4dfd-96aa-30fe31168eac;Théo;Vincent;2 rue de la Gare;LeadelMarché Nord;Intérimaire;Marc Lemoine;B1007;15;true
+4cb4a65e-f2b2-41d8-b52d-d163925ffb68;Nina;Richard;11 rue des Oliviers;LeadelMarché Centre;HR;Paul Martin;B1008;35;true
+3e67a92f-a9a7-4566-9214-d323ae570058;Pierre;Faure;20 route de Lyon;LeadelMarché Sud;Caissier;Sophie Durand;B1009;35;true
+146a3846-4fb1-4ae5-9d18-c3089679080f;Camille;Gauthier;7 rue du Lac;LeadelMarché Centre;Caissière;Paul Martin;B1010;28;true
+03a3e7fa-ce21-47f8-8f7d-f325eba951bb;Oussama;Aouane;XXX;XXX;CEO;XXX;AE2005;40;true
